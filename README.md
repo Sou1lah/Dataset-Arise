@@ -2,6 +2,16 @@
 
 A local terminal app to inspect, clean, and report on tabular datasets. Built with Python, Textual, pandas, and Rich.
 
+## Screenshots
+
+![Dataset preview and cleaning menu](./Scrennshots/homepage.png)
+
+![Cleaning action menu](./Scrennshots/CleaningAction.png)
+
+![Cleaning confirmation](./Scrennshots/confirm%20cleaning%20Action.png)
+
+![Generated dataset report](./Scrennshots/report.png)
+
 ## Install
 
 ```bash
